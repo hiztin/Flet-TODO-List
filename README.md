@@ -27,3 +27,6 @@
 
 ![github](https://github.com/hiztin)
 
+<p align="center">
+  <img src="seiun-sky-fish.gif" alt="Seiun Sky Fish" width="300">
+</p>
