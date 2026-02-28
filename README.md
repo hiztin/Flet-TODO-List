@@ -26,7 +26,7 @@
 # 📧 Контакты
 
 # ![github](https://github.com/hiztin)
-
+# discord:h1zz 
 <p align="center">
   <img src="seiun-sky-fish.gif" alt="Seiun Sky Fish" width="300">
 </p>
